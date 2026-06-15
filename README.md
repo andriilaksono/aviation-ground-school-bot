@@ -1,6 +1,6 @@
 # ✈️ Aviation Ground School Bot
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aviation-ground-school-bot.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-2.5_Flash-orange.svg)](https://ai.google.dev/)
 
@@ -29,8 +29,6 @@ Aplikasi ini diinstruksikan melalui *Prompt Engineering* yang ketat untuk mengua
 Aplikasi ini telah di-deploy ke publik dan dapat diakses secara langsung tanpa proses instalasi melalui tautan berikut:
 
 **[▶ Mainkan Live Demo di Sini](https://aviation-ground-school-bot.streamlit.app/)**
-
-> *Catatan: Ganti tautan ini dengan URL Streamlit Cloud aslimu jika berbeda.*
 
 ---
 
