@@ -1,6 +1,6 @@
 # ✈️ Aviation Ground School Bot
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aviation-ground-school-bot.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-2.5_Flash-orange.svg)](https://ai.google.dev/)
 
