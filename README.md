@@ -28,7 +28,7 @@ Aplikasi ini diinstruksikan melalui *Prompt Engineering* yang ketat untuk mengua
 
 Aplikasi ini telah di-deploy ke publik dan dapat diakses secara langsung tanpa proses instalasi melalui tautan berikut:
 
-**[▶ Mainkan Live Demo di Sini](https://aviation-ground-school-bot.streamlit.app/)**
+<a href="https://aviation-ground-school-bot.streamlit.app/" target="_blank">▶ Mainkan Live Demo di Sini</a>
 
 ---
 
